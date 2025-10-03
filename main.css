@@ -14,8 +14,7 @@
 .Chapter2 {
   position:absolute;
   left:50%;
-layout/table
-  top: 1130px
+  top: 1130px;
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -26,9 +25,7 @@ layout/table
 .Chapter3 {
   position:absolute;
   left:50%;
-layout/table
   top:1290px;
- develop
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -42,8 +39,7 @@ layout/table
 .Chapter4 {
   position:absolute;
   left:50%;
- layout/table
-  top:1440px;
+   top:1440px;
   color:red;
   font-weight: 800;
   font-size: 20px;
