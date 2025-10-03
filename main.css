@@ -1,7 +1,7 @@
 .Chapter {
   position:absolute;
   left:50%;
-  top: 950px;
+  top: 930px;
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -11,7 +11,7 @@
 .Chapter2 {
   position:absolute;
   left:50%;
-  top: 1230px;
+  top: 1130px;
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -22,7 +22,7 @@
 .Chapter3 {
   position:absolute;
   left:50%;
-  top:1430px;
+  top:1290px;
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -36,7 +36,7 @@
 .Chapter4 {
   position:absolute;
   left:50%;
-  top:1630px;
+  top:1440px;
   color:red;
   font-weight: 800;
   font-size: 20px;
@@ -48,7 +48,7 @@
  .Chapter5 {
   position:absolute;
   left:50%;
-  top:1870px;
+  top:1630px;
   color:red;
   font-weight: 800;
   font-size: 20px;
